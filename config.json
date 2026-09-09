@@ -1,0 +1,15 @@
+{
+  "repo_path": "/Users/aman/priv",
+  "filename": "activity.log",
+  "branch": "main",
+
+  "commits_per_day_min": 4,
+  "commits_per_day_max": 5,
+
+  "active_hours": [9, 23],
+  "skip_weekend_chance": 0.6,
+
+  "push_every_run": true,
+
+  "backfill_enabled": false
+}
