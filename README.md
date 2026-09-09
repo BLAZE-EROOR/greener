@@ -132,6 +132,11 @@ Know what that means before pointing it at a repo tied to your identity:
 
 Requires Python 3.7+, git, and a repo you can push to.
 
+```bash
+git clone https://github.com/BLAZE-EROOR/greener.git ~/graph-greener-auto
+cd ~/graph-greener-auto
+```
+
 ### 1. Configure
 
 `config.json`:
